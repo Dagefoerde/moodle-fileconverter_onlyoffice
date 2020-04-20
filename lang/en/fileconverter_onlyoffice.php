@@ -26,6 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'ONLYOFFICE document converter';
+$string['preparesubmissionsforannotation'] = 'Prepare submissions for annotation'];
 $string['settings:internaloodsurl'] = 'Internal ONLYOFFICE Document Server URL';
 $string['settings:internaloodsurl_help'] = 'Specify the URL at which the ONLYOFFICE document server can be reached *by Moodle*. The URL is never resolved in the browser, only in CURL requests by Moodle, so it will be resolved only in  the local network.';
 $string['settings:internalmoodleurl'] = 'Internal Moodle URL';
